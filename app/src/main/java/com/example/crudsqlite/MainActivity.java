@@ -118,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
                     buffer.append("Course:" + res.getString(5) + "\n");
                     buffer.append("Department:" + res.getString(6) + "\n\n");
 
+
                 }
 
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
